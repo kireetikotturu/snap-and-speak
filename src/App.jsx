@@ -7,7 +7,7 @@ import { useRef, useState } from "react";
 import "./index.css";
 
 // 🔑 Gemini API key
-const API_KEY = "AIzaSyClHsogOH6u7fBA2uWDDfWCCzqRBzXmUmI";
+const API_KEY = "AIzaSyDjNRFo0dPa5whJONuQaJ0fogVTqJ-3bUg";
 
 // Main React component
 function App() {
